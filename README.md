@@ -1,4 +1,6 @@
-To be written
+Project not completed yet
 
 ### TODO
-  * Add PostBack Pre-order support
+  * Write docs
+  * Write tests
+  * Add PostBack Pre-order functionality

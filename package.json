@@ -1,13 +1,20 @@
 {
   "name": "codeswholesale-node-sdk",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node SDK with promises for codeswholesale API",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Mircea Pop",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OogieBoogieInJSON/codeswholesale-node-sdk.git"  
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "codeswholesale",
+    "codeswholesale node",  
+    "codeswholesale node sdk",
+    "codeswholesale api"
+  ],
   "dependencies": {
     "bluebird": "^3.1.1",
     "lodash": "^3.10.1",
