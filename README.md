@@ -106,8 +106,16 @@ cws
   });
 ```
 
+## Alternatives / Related
+[codeswholesale/codeswholesale-sdk-php](https://github.com/codeswholesale/codeswholesale-sdk-php) - API wrapper in PHP made by [codeswholesale](https://github.com/codeswholesale)
+
+[OogieBoogieInJSON/laravel-codeswholesale](https://github.com/OogieBoogieInJSON/laravel-codeswholesale) - Laravel service provider for codeswholesale php sdk
+
+**Note:** Feel free to add yours (pull request).
+
 ## TODO
   * Add PostBack Pre-order functionality
+  * Add PostBack functionality for product updates
   * Add default quantity for orders
   * Add method for game cover
 
