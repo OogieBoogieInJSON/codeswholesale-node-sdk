@@ -1,6 +1,8 @@
 # codeswholesale-node-sdk
 Node wrapper with promises for codeswholesale API
 
+**Note:** This package is not developed/related to codeswholesale dev team.
+
 ## Installation
 ```
 $ npm install codeswholesale-node-sdk --save
