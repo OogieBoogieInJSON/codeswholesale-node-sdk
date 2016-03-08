@@ -1,6 +1,6 @@
 {
   "name": "codeswholesale-node-sdk",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Node SDK with promises for codeswholesale API",
   "main": "index.js",
   "author": "Mircea Pop",
