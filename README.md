@@ -1,8 +1,6 @@
 # codeswholesale-node-sdk
 Node wrapper with promises for codeswholesale API
 
-**Note:** This package is not developed/related to codeswholesale dev team.
-
 ## Installation
 ```
 $ npm install codeswholesale-node-sdk --save
@@ -33,8 +31,6 @@ cws
 ## API
 #### configure (options)
 Set-up credentials and URL for your requests. You can pass the sandbox or live URL to codeswholesale APIs to properly work in dev or production.
-
-**Note:** Everything about authentication is handled internally, you don't have to worry about it.
 
 ```js
 cws.configure({
@@ -105,18 +101,6 @@ cws
     // error is here
   });
 ```
-
-## Alternatives / Related
-[codeswholesale/codeswholesale-sdk-php](https://github.com/codeswholesale/codeswholesale-sdk-php) - API wrapper in PHP made by [codeswholesale](https://github.com/codeswholesale)
-
-[OogieBoogieInJSON/laravel-codeswholesale](https://github.com/OogieBoogieInJSON/laravel-codeswholesale) - Laravel service provider for codeswholesale php sdk
-
-**Note:** Feel free to add yours (pull request).
-
-## TODO
-  * Add PostBack Pre-order functionality
-  * Add PostBack functionality for product updates
-  * Add method for game cover
 
 ## License
 MIT © [Mircea Pop](https://github.com/OogieBoogieInJSON)
