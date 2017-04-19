@@ -1,6 +1,8 @@
 # codeswholesale-node-sdk
 Node wrapper with promises for codeswholesale API
 
+![Build status](https://travis-ci.org/OogieBoogieInJSON/codeswholesale-node-sdk.svg?branch=master)
+
 ## Installation
 ```
 $ npm install codeswholesale-node-sdk --save
